@@ -81,7 +81,7 @@ i{
     color: rgb(227, 218, 201);
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1200px) {
     body{
         display: grid;
         grid-template-columns: 80%;
